@@ -1,0 +1,13 @@
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.csprojAssemblyReference.cache
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.csproj.CoreCompileInputs.cache
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.AssemblyInfoInputs.cache
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.AssemblyInfo.cs
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.exe
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.deps.json
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.runtimeconfig.json
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.runtimeconfig.dev.json
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.dll
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\bin\Debug\netcoreapp3.1\WimmerAddie-GameProject.pdb
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.dll
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.pdb
+C:\Users\awim0\Desktop\ProgrammingHW\WimmerAddie-GameProject\WimmerAddie-GameProject\obj\Debug\netcoreapp3.1\WimmerAddie-GameProject.genruntimeconfig.cache
